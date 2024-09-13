@@ -1,1 +1,1 @@
-      A repository for Web scraoing side projects and tools  
+      A repository for Web scraping side projects and tools  
